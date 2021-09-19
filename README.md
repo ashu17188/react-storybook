@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `npm run storybook`
+
+Runs story book
+
+### `npx -p @storybook/cli sb init`
+
+Runs story book cli
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
