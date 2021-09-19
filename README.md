@@ -18,6 +18,12 @@ You will also see any lint errors in the console.
 
 Runs story book
 
+### `npm run build-storybook -- -o ./path/to/build`
+
+Storybook will create a static web application at the path you specify. This can be served by any web server. Try it out locally by running:
+
+### `npx http-server ./path/to/build`
+
 ### `npx -p @storybook/cli sb init`
 
 Runs story book cli
